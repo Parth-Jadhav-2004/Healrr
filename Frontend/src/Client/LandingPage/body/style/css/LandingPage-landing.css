@@ -202,7 +202,7 @@ body{
     }
 }
 
-/* on hover animations */
+/* on hover Animations */
 .gridItem-flexContainer img:hover {
     animation: pulse 1s  alternate;
 }
@@ -220,5 +220,6 @@ body{
 .Services-gridContainer-containerTwo-item2:hover,
 .Services-gridContainer-item3:hover {
   transform: translateY(-15px); 
-  transition: transform 0.3s ease; 
+  transition: transform 0.4s ease; 
 }
+
