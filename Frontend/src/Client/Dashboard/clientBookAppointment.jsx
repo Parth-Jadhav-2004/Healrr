@@ -61,7 +61,7 @@ function BookAppointment() {
                                     <li>Over 20 years of experience in diverse mental health concerns.</li>
                                     <li>Holistic approach focusing on biological, psychological, social, and environmental factors.</li>
                                     <li>Culturally competent care tailored to diverse backgrounds.</li>
-                                    <li>Compassionate and nonjudgmental support fostering authentic heali</li>
+                                    <li>Compassionate and nonjudgmental support fostering authentic heal</li>
                                 </ul>
                             </div>
                         </div>
